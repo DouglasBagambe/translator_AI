@@ -1,0 +1,9 @@
+en_core_web_sm
+es_core_news_sm
+fr_core_news_sm
+de_core_news_sm
+zh_core_web_sm
+xx_ent_wiki_sm
+es_core_news_md
+pt_core_news_sm
+ja_core_news_sm

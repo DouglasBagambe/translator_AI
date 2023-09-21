@@ -1,0 +1,15 @@
+# NLP Libraries
+spacy==3.1.2
+nltk==3.6.3
+gensim==4.0.1
+
+# Machine Learning Libraries
+scikit-learn==0.24.2
+tensorflow==2.6.0
+googletrans==4.0.0-rc1
+
+# Voice Recognition
+SpeechRecognition==3.8.1
+
+# GUI for creating the UI
+tkinter==8.6
