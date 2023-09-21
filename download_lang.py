@@ -1,15 +1,4 @@
 import os
-
-# # Read the languages from the file
-# with open("languages.txt") as f:
-#     languages = f.read().splitlines()
-
-# # Download each language model
-# for lang in languages:
-#     command = f"python -m spacy download {lang}"
-#     os.system(command)
-#     print(f"Downloaded language model: {lang}")
-    
 import spacy
 import subprocess
 
