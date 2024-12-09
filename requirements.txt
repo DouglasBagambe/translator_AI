@@ -5,7 +5,7 @@ gensim==4.0.1
 
 # Machine Learning Libraries
 scikit-learn==0.24.2
-tensorflow==2.6.0
+tensorflow==2.12.1
 googletrans==4.0.0-rc1
 
 # Voice Recognition
